@@ -1,8 +1,8 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>welcome to my website :)</h1>
+<p>basically gonna blog here</p>
 
 </body>
 </html>
